@@ -1,8 +1,8 @@
-# 🖩 Calculator Project (GUI Edition)
+# # 🖩 Calculator Project (GUI Edition)
 
 Welcome to the Calculator Project (GUI Edition)! 🎉 This project is a beginner-friendly Python application featuring a graphical user interface (GUI). It provides an intuitive way to perform basic mathematical operations, combining functionality with a sleek design. Perfect for learning GUI programming with Python and Tkinter! 🐍
 
-# #✨ Features
+# ✨ Features
 
 -**Addition ➕**: Perform addition of two numbers.
 
