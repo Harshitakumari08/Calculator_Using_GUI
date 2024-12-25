@@ -16,7 +16,7 @@ Welcome to the Calculator Project (GUI Edition)! 🎉 This project is a beginner
 -**User-Friendly Interface 🎨**: Interactive GUI for seamless user experience.
 
 
-## 📂 File Structure
+## *📂 File Structure*
 
 **gui-calculator/**
 ├── gui_calculator.py  # Main Python script for the GUI calculator
