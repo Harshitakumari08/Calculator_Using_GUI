@@ -18,11 +18,13 @@ Welcome to the Calculator Project (GUI Edition)! 🎉 This project is a beginner
 
 ## *📂 File Structure*
 
+```
 **gui-calculator/**
 
 ├── gui_calculator.py  # Main Python script for the GUI calculator
 
 ├── README.md          # Project documentation
+```
 
 
 ## *🤝 Contributing*
