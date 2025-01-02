@@ -18,7 +18,6 @@ def evaluate_calculation():
         clear_field()
         text_result.insert(1.0, "Error")
         
-
 def clear_field():
     global calculation
     calculation = ""
